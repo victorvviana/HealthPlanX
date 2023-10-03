@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("Hello World!")
-	fmt.Println("Segunda Linha")
+	var message = " Meu primeiro app em Golang "
+	fmt.Println(message)
 
 }
